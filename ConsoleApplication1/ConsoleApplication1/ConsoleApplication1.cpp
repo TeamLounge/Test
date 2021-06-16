@@ -3,11 +3,13 @@
 
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
-    std::cout << "Hello World!\n";
+	std::cout << "Hello World!\n";
 	std::cout << "정무현은 31살이다.\n";
-	std::cout <<"처음 써보는 GitHub";
+	std::cout << "처음 써보는 GitHub";
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
