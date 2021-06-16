@@ -7,8 +7,13 @@ using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n";
+	std::cout << "Hello World!\n";
 	std::cout << "정무현은 31살이다.\n";
+	std::cout << "ㅋㅋㅋㅋㅋㅋㅋ";
+	cout << "네임스페이스쓰라거ㅗ오오오오오오";
+	std::cout << "으아아아ㅏ아ㅏ아아아ㅏ아아앙아ㅏ아정싯나ㅏㄴ강라낙러다강아아";
+	std::cout << "처음 써보는 GitHub";
+	cout << "이거 뭐냐?;";
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
