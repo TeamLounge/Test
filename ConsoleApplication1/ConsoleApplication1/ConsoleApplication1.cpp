@@ -7,6 +7,7 @@ int main()
 {
     std::cout << "Hello World!\n";
 	std::cout << "정무현은 31살이다.\n";
+	std::cout << "김광수도 31살이다.\n";
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
