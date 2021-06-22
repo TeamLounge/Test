@@ -15,7 +15,9 @@ int main()
 	std::cout << "처음 써보는 GitHub";
 	cout << "이거 뭐냐?;";
 	std::cout << "초록매실";
-	std::cout << "처음 써보는 GitHub";
+
+	//환장하겠네요..
+	std::cout << "z-order 어떻게 사용하는지 아시는 분..";
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
